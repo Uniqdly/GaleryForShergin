@@ -1,7 +1,11 @@
 body {
   background-color: #90e8f8; /* Задайте цвет фона */
 }
-
+img
+{
+  width:620 ;
+  height: 620;
+}
 body {
   font-family: sans-serif;
 }
